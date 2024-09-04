@@ -14,9 +14,9 @@ The purpose of this page is to serve as a technical hub for the NCPI community i
 
 The following table provides a quick overview of the organization of the NCPI GitHub:
 
-| <p align="center">Repository</p> | <p align="center">Description</p> |
+| <p align="center">Repository</p> | <p align="center">Description</p> | <p align="center"> Last Update </p> |
 |--------|---------------|
-| [Interoperability Projects](https://github.com/NCPI-test/NCPI-Interoperability-Projects-Test) | Repository with files that briefly describe each interoperability project and link to their respective project repositories for actual development. <br> **Repository Structure:** <br> - `overview`: Project documentation <br> - `projects`: Descriptions of the projects with links to their repositories |
+| [Interoperability Projects](https://github.com/NCPI-test/NCPI-Interoperability-Projects-Test) | Repository with files that briefly describe each interoperability project and link to their respective project repositories for actual development. <br> **Repository Structure:** <br> - `overview`: Project documentation <br> - `projects`: Descriptions of the projects with links to their repositories | git log -n 1 --pretty=format:%cd (https://github.com/NCPI-test/NCPI-Interoperability-Projects-Test)
 | [NCPI FHIR Implementation Guide 2](https://github.com/NIH-NCPI/ncpi-fhir-ig-2?tab=readme-ov-file) | Relaunch of the IG project with a clearer focus, an explicit style guide using the current tools including Sushi v3. |
 | [NCPI FHIR Shiny Browser](https://github.com/NIH-NCPI/ncpi-fhir-shiny-browser) | Example R Shiny applications and supporting functions that allow browsing and parsing FHIR objects. |
 | [Locutus](https://github.com/NIH-NCPI/locutus) | Backend for a web-based terminology mapping tool aimed at harmonizing dataset terms with public ontologies such as MeSH, HPO, and others. |
