@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/NCPI-test/.github/blob/main/ncpi-logo-close-crop.png" width="250" alt="NCPI Logo"/></p>
+<p align="center"><img src="https://github.com/NCPITest/.github/blob/main/profile/ncpi-logo-close-crop.png" width="250" alt="NCPI Logo"/></p>
 
 # <p align="center"> NIH Cloud Platform Interoperability (NCPI) Program TEST PAGE  </p>
 
