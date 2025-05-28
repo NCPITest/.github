@@ -1,0 +1,105 @@
+           NIH Cloud Platform Interoperability Program (NCPI) - Projects        var scrollThreshold = 100; function popoutToggle(o) { $(o).toggleClass("popout-element"); $(o).parent().toggleClass("popout-element-container"); } window.dataLayer = window.dataLayer || \[\]; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-BPKVND7MQ4');
+
+[![NCPI](/img/ncpi-logo.png)](/ "Go to home page")
+
+*   [About](#)
+    *   [Overview](/about)
+    *   * * *
+        
+    *   [NIH ODSS](/about/nih-odss)
+    *   [Steering Committee](/about/steering-committee)
+    *   [Coordinating Center](/about/coordinating-center)
+    *   [External Advisory Board](/about/external-advisory-board)
+    *   [Working Groups](/about/working-groups)
+*   [Partners](/partners)
+*   [Projects](#)
+    *   [Current Projects](/projects)
+    *   [Completed Projects](/projects/completed)
+*   [Resources](#)
+    *   [Overview](/resources)
+    *   * * *
+        
+    *   [Cloud Credit Estimation](/resources/cloud-credit-estimation)
+    *   [Funding Opportunities](/resources/funding-opportunities)
+    *   [Technologies](/resources/technologies)
+    *   [Training](/resources/training)
+    *   * * *
+        
+    *   [Dataset Catalog](https://ncpi-data.org)
+*   [Events](/events)
+*   [Contact](/contact)
+
+section h3 b { isplay:block; argin-top:10px; font-size:20px; margin-left:20px; } section .project-awards { margin-top:50px; margin-bottom:40px; } section .project-awards li { margin-top:10px; margin-bottom:50px; } section .project-awards .project-award-title { font-size:20px; font-weight:500; } section .project-awards .project-award-awardee-pi { margin-left:80px; margin-bottom:10px; } section .project-awards .project-award-awardee-pi:before { content:"PI:"; margin-right:10px; margin-left:-80px; width:70px; display:inline-block; color:#888888; } section .project-awards .project-award-awardee-copis { margin-left:80px; } section .project-awards .project-award-awardee-copis b { display:inline; } section .project-awards .project-award-awardee-copis div { margin-bottom:10px; } section .project-awards .project-award-awardee-copis:before { content:"Co-PIs:"; margin-right:10px; margin-left:-80px; width:70px; display:inline-block; color:#888888; position:absolute; } section .project-awards h4 { font-size:20px; margin:10px 10px 0px 0px; display:inline; color:#888888; } section .project-awards b { font-size:20px; display:block; } @media(min-width:768px) { section .project-awards .project-award-awardee-pi { margin-left:210px; } section .project-awards .project-award-awardee-pi:before { content:"PI + Institution:"; margin-left:-210px; width:200px; } section .project-awards .project-award-awardee-copis { margin-left:210px; } section .project-awards .project-award-awardee-copis:before { content:"Co-PIs + Institutions:"; margin-left:-210px; width:200px; } } section .projects .btn { font-size: 20px; }
+
+1.  [](/ "Home")
+2.  Projects
+
+Current Projects
+================
+
+* * *
+
+These projects have been awarded from the [2023 NCPI Interoperability Project Solicitation (March, 2023)](/resources/funding-opportunities "2023 NCPI Interoperability Project Solicitation").
+
+[Project summaries are available on the NCPI GitHub](https://github.com/NIH-NCPI/Interoperability-Projects?tab=readme-ov-file)
+
+1.  Facilitating understanding of shared disease mechanisms leveraging interoperability standards across dbGaP/SRA, ImmPort, and Kids First DRC ([Project Repository](https://github.com/NIH-NCPI/Interoperability-Projects/blob/main/Project%20Descriptions/Facilitating%20understanding%20of%20shared%20disease%20mechanisms%20leveraging%20interoperability%20standards%20across%20dbGaP-SRA%2C%20ImmPort%2C%20and%20Kids%20First%20DRC.md))
+    
+    **Allison Heath, PhD (Project PI)**; Children's Hospital of Philadelphia
+    
+    Elizabeth Thomson; Peraton, Inc.
+    
+    Jack DiGiovanna, PhD; Velsera, Inc. (Seven Bridges Genomics, Inc.)
+    
+    Chad Shaw, PhD; Baylor College of Medicine
+    
+    Atul Butte, MD, PhD; University of California, San Francisco
+    
+2.  Connecting FHIR, and CDA and DRS across NIH cloud resources ([Project Repository](https://github.com/NIH-NCPI/Interoperability-Projects/blob/main/Project%20Descriptions/Connecting%20FHIR%2C%20the%20CDA%2C%20and%20DRS%20Across%20NIH%20Cloud%20Resources.md))
+    
+    **Kyle Ellrott, PhD (Project PI)**; Oregon Health and Science University
+    
+    Amanda Charbonneau, PhD; General Dynamics Information Technology, Inc.
+    
+    Boris Aguilar, PhD; Institute for Systems Biology
+    
+3.  AnVIL-BioData Catalyst interoperability project to leverage GTEx, T2T and HPRC to study rare genetic variants in TOPMed cohorts with deep phenotype data, whole genome sequence data, and RNA-sequence data ([Project Repository](https://github.com/NIH-NCPI/Interoperability-Projects/blob/main/Project%20Descriptions/AnVIL-BioData%20Catalyst%20interoperability%20project%20to%20leverage%20GTEx%2C%20T2T%20and%20HPRC%20to%20study%20rare%20genetic%20variants%20in%20TOPMed%20cohorts%20with%20deep%20phenotype%20data%2C%20whole%20genome%20sequence%20data%2C%20and%20RNA-sequence%20data.md))
+    
+    **Michael C. Schatz, PhD (Project PI)**; John Hopkins University
+    
+    Alisa Manning, PhD; Broad Institute
+    
+    Stephen Montgomery, PhD; Stanford University
+    
+4.  AnVIL/Velsera-CGC interoperability project to study the genetic and transcriptomic contributions towards Hispanic colorectal cancer health disparities ([Project Repository](https://github.com/NIH-NCPI/Interoperability-Projects/blob/main/Project%20Descriptions/AnVIL-Velsera-CGC%20interoperability%20project%20to%20study%20the%20genetic%20and%20transcriptomic%20contributions%20towards%20Hispanic%20colorectal%20cancer%20health%20disparities.md))
+    
+    **Michael C. Schatz, PhD (Project PI)**; John Hopkins University
+    
+    Jack DiGiovanna, PhD; Velsera, Inc. (Seven Bridges Genomics, Inc.)
+    
+    Sourav Roy, PhD; University of Texas at El Paso
+    
+5.  Integrated data exploration of AnVIL and Kids First to enable sex-biased chromosome association and determine the genetic basis of Ollier disease and Maffucci syndrome ([Project Repository](https://github.com/NIH-NCPI/Interoperability-Projects/blob/main/Project%20Descriptions/Integrated%20data%20exploration%20of%20AnVIL%20and%20KidsFirst%20to%20enable%20sex-biased%20chromosome%20association%20and%20determine%20the%20genetic%20basis%20of%20Ollier%20disease%20and%20Maffucci%20syndrome.md))
+    
+    **Benedict Paten, PhD (Project PI)**; University of California, Santa Cruz
+    
+    Jack DiGiovanna, PhD; Velsera, Inc. (Seven Bridges Genomics, Inc.)
+    
+    Melissa Wilson, PhD; Arizona State University
+    
+    Robert Carroll, PhD; Vanderbilt University Medical Center
+    
+    Nara Lygia de Macena Sobreira, MD, PhD; Johns Hopkins Medicine
+    
+    Allison Heath, PhD; Children's Hospital of Philadelphia
+    
+    Alex Baumann, PhD; Broad Institute
+    
+
+Website content is subject to change. This page was last reviewed on May 20, 2025.
+
+[Home](/) [About](/about) [Partners](/partners) [Projects](/projects) [Resources](/resources) [Events](/events)[](/contact)[](https://twitter.com/NIHCloudInterop)[](https://www.youtube.com/@ncpi-acc)[](https://github.com/NIH-NCPI)
+
+This website was developed by the NCPI Administrative Coordinating Center (ACC) (NIH Other Transaction Agreement: 1OT2OD034190)
+
+$(document).on("scroll",function(){ if($(document).scrollTop()>scrollThreshold){ $("nav.navbar").addClass("navbar-shrink"); $(".navbar-brand").addClass("navbar-brand-shrink"); } else { $("nav.navbar").removeClass("navbar-shrink"); $(".navbar-brand").removeClass("navbar-brand-shrink"); } }); $(document).ready(function() { $("a\[href^='http'\]").addClass("external-link"); $("a\[href^='http'\] img").parent().removeClass("external-link"); $(".socials").children().removeClass("external-link"); $(".footer-links").children().removeClass("external-link"); });
