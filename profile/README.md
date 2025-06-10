@@ -1,10 +1,16 @@
 <p align="center"><img src="https://github.com/NCPITest/.github/blob/main/profile/ncpi-logo-close-crop.png" width="250" alt="NCPI Logo"/></p>
 
+<style>
+  /* Adjust selector as needed to target only this element */
+  .heading-element {
+    font-size: 1.5em;    /* increase as desired */
+    text-align: center;  /* replaces deprecated align attribute */
+  }
+</style>
 <h4
   tabindex="-1"
   class="heading-element"
   dir="auto"
-  style="font-size: 2em !important;"
 >
   <a href="https://github.com/NCPITest/About">About</a> |
   <a href="https://github.com/NCPITest/Partners">Partners</a> |
