@@ -1,22 +1,8 @@
 <p align="center"><img src="https://github.com/NCPITest/.github/blob/main/profile/ncpi-logo-close-crop.png" width="250" alt="NCPI Logo"/></p>
 
-<style>
-  .heading-element a {
-    font-size: 2em !important;
-    /* optionally adjust line-height or margin */
-  }
-</style>
 
-<h4
-  tabindex="-1"
-  class="heading-element"
-  dir="auto"
->
-  <a href="https://github.com/NCPITest/About">About</a> |
-  <a href="https://github.com/NCPITest/Partners">Partners</a> |
-  <a href="https://github.com/NCPITest/Projects">Projects</a> |
-  <a href="https://github.com/NCPITest/Resources">Resources</a>
-</h4>
+# [About](https://github.com/NCPITest/About) | [Partners](https://github.com/NCPITest/Partners) | [Projects](https://github.com/NCPITest/Projects) | [Resources](https://github.com/NCPITest/Resources)
+
 
 # <p align="center"> NIH Cloud Platform Interoperability (NCPI) Program TEST PAGE  </p>
 
