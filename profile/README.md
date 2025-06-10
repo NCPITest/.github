@@ -6,7 +6,7 @@
 
 Welcome to the test NCPI GitHub page! 
 
-The NCPI program is a partnership between multiple NIH-supported participating systems (currently AnVIL, BioData Catalyst, CRDC, dbGaP, and Kids First) developing and implementing technical standards to enable interoperability and facilitate a federated data ecosystem. For more information about participating systems, click [here.](https://github.com/NCPITest/Interoperability-Resources/blob/main/Partner%20Systems.md)
+The NCPI program is a partnership between multiple NIH-supported participating systems (currently AnVIL, BioData Catalyst, CRDC, dbGaP, and Kids First) developing and implementing technical standards to enable interoperability and facilitate a federated data ecosystem. 
 
 A dataset catalog of the broad array biomedical datasets available across NCPI is maintained [here](https://ncpi-data.org/platforms)
 
