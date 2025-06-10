@@ -1,12 +1,12 @@
 <p align="center"><img src="https://github.com/NCPITest/.github/blob/main/profile/ncpi-logo-close-crop.png" width="250" alt="NCPI Logo"/></p>
 
 <style>
-  /* Adjust selector as needed to target only this element */
-  .heading-element {
-    font-size: 1.5em;    /* increase as desired */
-    text-align: center;  /* replaces deprecated align attribute */
+  .heading-element a {
+    font-size: 2em !important;
+    /* optionally adjust line-height or margin */
   }
 </style>
+
 <h4
   tabindex="-1"
   class="heading-element"
