@@ -5,7 +5,7 @@
   class="heading-element"
   dir="auto"
   align="center"
-  style="font-size: 1.5em; /* increase as needed */
+  style="font-size: 3em;
          /* text-align is better controlled via CSS, but align attr kept for backward-compatibility */"
 >
   <a href="https://github.com/NCPITest/About">About</a> |
