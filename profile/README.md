@@ -4,9 +4,7 @@
   tabindex="-1"
   class="heading-element"
   dir="auto"
-  align="center"
-  style="font-size: 50em;
-         /* text-align is better controlled via CSS, but align attr kept for backward-compatibility */"
+  style="font-size: 2em !important;"
 >
   <a href="https://github.com/NCPITest/About">About</a> |
   <a href="https://github.com/NCPITest/Partners">Partners</a> |
