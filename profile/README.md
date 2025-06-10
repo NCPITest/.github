@@ -11,8 +11,10 @@ The NCPI program is a partnership between multiple NIH-supported participating s
 A dataset catalog of the broad array biomedical datasets available across NCPI is maintained [here](https://ncpi-data.org/platforms)
 
 The purpose of this page is two fold: 
-  - First to provide context and links to the current that is occuring
+  - First to provide links to the technical products that underlie interoperability
   - Second to provide information regarding the NCPI program more broadly
+    - The <a href="https://github.com/NCPITest/About"> About </a> repository provides an overview of the NCPI program and its components
+    - 
 
 ## Repository Overview
 
