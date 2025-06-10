@@ -4,7 +4,7 @@
   tabindex="-1"
   class="heading-element"
   dir="auto"
-  style="font-size: 100em !important;"
+  style="font-size: 2em !important;"
 >
   <a href="https://github.com/NCPITest/About">About</a> |
   <a href="https://github.com/NCPITest/Partners">Partners</a> |
