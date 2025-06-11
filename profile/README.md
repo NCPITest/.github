@@ -2,10 +2,11 @@
 
 <div align="center">
   <h2>
-    <a href="https://github.com/NCPITest/About">About</a> |
-    <a href="https://github.com/NCPITest/Partners">Partners</a> |
-    <a href="https://github.com/NCPITest/Projects">Projects</a> |
-    <a href="https://github.com/NCPITest/Resources">Resources</a>
+    <a> Home</a> |
+    <a href="https://github.com/NCPITest/About/blob/main/README.md">About</a> |
+    <a href="https://github.com/NCPITest/Partners/blob/main/README.md">Partners</a> |
+    <a href="https://github.com/NCPITest/Projects/blob/main/README.md">Projects</a> |
+    <a href="https://github.com/NCPITest/Resources/blob/main/README.md">Resources</a>
   </h2>
 </div>
 
@@ -18,10 +19,10 @@ The NCPI program is a partnership between multiple NIH-supported participating s
 The purpose of this page is two fold: 
   - Provide links to the technical products that underlie interoperability, These tools/resources/services are outlined in the Interoperability Resources Table.
   - Provide information regarding the NCPI program more broadly
-    - The [About](https://github.com/NCPITest/About) repository provides an overview of the NCPI program and its components.
-    - The [Partners](https://github.com/NCPITest/Partners) repository provides details on the NCPI partner systems.
-    - The [Projects](https://github.com/NCPITest/Projects) repository provides an overview of ongoing and past interoperability projects.
-    - The [Resources](https://github.com/NCPITest/Resources) repository provides various interoperability resources. 
+    - The [About](https://github.com/NCPITest/About/blob/main/README.md) repository provides an overview of the NCPI program and its components.
+    - The [Partners](https://github.com/NCPITest/Partners/blob/main/README.md) repository provides details on the NCPI partner systems.
+    - The [Projects](https://github.com/NCPITest/Projects/blob/main/README.md) repository provides an overview of ongoing and past interoperability projects.
+    - The [Resources](https://github.com/NCPITest/Resources/blob/main/README.md) repository provides various interoperability resources. 
   
 
 ## Interoperability Resources Table
