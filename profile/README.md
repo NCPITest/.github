@@ -22,7 +22,7 @@ The purpose of this page is two fold:
     - The [About](https://github.com/NCPITest/About/blob/main/README.md) repository provides an overview of the NCPI program and its components.
     - The [Partners](https://github.com/NCPITest/Partners/blob/main/README.md) repository provides details on the NCPI partner systems.
     - The [Projects](https://github.com/NCPITest/Projects/blob/main/README.md) repository provides an overview of ongoing and past interoperability projects.
-    - The [Resources](https://github.com/NCPITest/Resources/blob/main/README.md) repository provides various interoperability resources. 
+    - The [Resources](https://github.com/NCPITest/Resources/blob/main/README.md) repository provides various interoperability resources inlcuding information about key NCPI standards such as Researcher Auth Service, Data Repository Service, and FHIR. 
   
 
 ## Interoperability Resources Table
